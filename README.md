@@ -43,6 +43,8 @@ npx react-native start --reset-cache
 
 You need to create a `.env` file at the root of the project, as in `.env_example`.
 
+Also, you need to creat an APP on intra. The redirect URL must be `myapp://oauth-callback`.
+
 Here are the required environment variables:
 
 | Variable Name | Description                              | Example                         |
